@@ -1,0 +1,30 @@
+body { font-family: Arial, sans-serif; }
+        
+.hero-section {
+            background: url('your-image.jpg') no-repeat center center;
+            background-size: cover;
+            color: white;
+            padding: 100px 20px;
+            text-align: center;
+        }
+.hero-section h1 { 
+    font-size: 50px; 
+    font-weight: bold; 
+}
+
+.hero-section .btn { 
+    background-color: #ff6600; 
+    border: none; 
+}
+
+.feature-box { 
+    text-align: 
+    center; 
+    padding: 20px; 
+}
+        
+.footer { 
+    background: #222; 
+    color: white; 
+    padding: 20px 0; 
+}
